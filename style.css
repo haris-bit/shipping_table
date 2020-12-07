@@ -71,7 +71,7 @@ th, td {
   padding: 20px;
   text-align: left;
   width: 33.3333%;
-  font-size:18px;
+  font-size: 18px;
 }
 
 .search {
@@ -82,7 +82,4 @@ th, td {
   padding: 20px;
   margin: 50px auto 0px auto;
   width: 77%;
-}
-table, td {
-  border: 1px solid black;
 }
